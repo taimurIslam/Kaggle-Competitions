@@ -1,0 +1,14 @@
+*.csv
+*.tsv
+*.hdf
+*.h5
+*.hdf5
+*.he5
+*.pkl
+*.tar
+<<<<<<< HEAD
+*.zip
+=======
+*.zip
+>>>>>>> a58816060f870c843a8c7ec7e2e8a74c6a383d98
+*.txt
